@@ -3,8 +3,6 @@
      （稳定版：不放幻灯片/头图）
      ========================= -->
 
-<h1 align="center">yxs2003</h1>
-
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=650&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I%27m+yxs2003;%E2%9D%93+%E4%BB%8A%E5%A4%A9%E4%BD%A0%E6%83%B3%E8%A7%A3%E9%94%81%E4%BB%80%E4%B9%88%E6%96%B0%E7%8E%A9%E6%84%8F%EF%BC%9F;%E2%9A%A1+WordPress+%2F+PHP+%2F+Performance+%2F+SEO+%2F+Security" />
@@ -37,7 +35,7 @@
 
 ---
 
-## ❓About Me（小卡片）
+## ❓About Me
 
 > ### 🌙 个人简介
 > **2025 大学本科毕业生｜逃离城市 ing**  
