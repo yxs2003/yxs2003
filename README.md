@@ -1,7 +1,6 @@
 <!-- =========================
      yxs2003 / Profile README
      ========================= -->
-     <p align="center"><img src="https://imgapi.cn/api.php?fl=dongman&gs=images" width="100%" alt="anime banner"></p>
 
 
 <p align="center">
