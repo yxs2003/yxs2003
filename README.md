@@ -38,7 +38,8 @@
 
 ---
 
-## ⚡炫酷进度条（今日状态）
+## ⚡今日状态
+> 其实今天刚起床~~。
 - 🧠 学习/输入进度：![](https://geps.dev/progress/72)
 - 🧱 代码搭建进度：![](https://geps.dev/progress/84)
 - 🐛 Bug 清零进度：![](https://geps.dev/progress/61)
@@ -48,6 +49,7 @@
 ---
 
 ## 🧰 Skill Stack & 熟练度
+> 其实我只会修改代码里的中文部分，哪行报错删哪行~~。
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
@@ -66,8 +68,6 @@
 
 ---
 
-
----
 
 ## 📈 Activity Graph
 <p align="center">
