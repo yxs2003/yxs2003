@@ -1,14 +1,8 @@
 <!-- =========================
      yxs2003 / Profile README
      ========================= -->
-
-✅ 顶部头图（推荐：跑 Actions 后用本地 banner.gif）
-     如果你还没跑 Actions，先把下面这行取消注释当“临时头图”：
      <p align="center"><img src="https://imgapi.cn/api.php?fl=dongman&gs=images" width="100%" alt="anime banner"></p>
 
-<p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="mystery banner ?" />
-</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -73,38 +67,15 @@
 
 ---
 
-## 🏆 Trophy + 📊 Stats（稳定版：本地生成，不怕空白）
-<p align="center">
-  <img src="./assets/metrics.svg" width="100%" alt="metrics" />
-</p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yxs2003/yxs2003/output/github-contribution-grid-snake-dark.svg?v=1" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/yxs2003/yxs2003/output/github-contribution-grid-snake.svg?v=1" />
-  </picture>
-</p>
-
----
-
-## 📈 Activity Graph（你这个一般能显示，就留着）
+## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yxs2003&hide_border=true&area=true&v=1" />
 </p>
 
 ---
-
-## 🎴 Mystery Corner（底部不再“一小条”：改成本地裁切后的三连图）
-<p align="center">
-  <img src="./assets/mystery/1.jpg" width="32%" />
-  <img src="./assets/mystery/2.jpg" width="32%" />
-  <img src="./assets/mystery/3.jpg" width="32%" />
-</p>
-
-<p align="center"><i>“点开仓库之前，先让 ❓ 陪你三秒。”</i></p>
 
 <!-- =========================
      END
