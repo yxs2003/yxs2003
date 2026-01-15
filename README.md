@@ -1,11 +1,13 @@
 <!-- =========================
      yxs2003 / Profile README
+     （稳定版：不放幻灯片/头图）
      ========================= -->
 
+<h1 align="center">yxs2003</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=650&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I%27m+yxs2003;%E2%9D%93+%E4%BB%8A%E5%A4%A9%E4%BD%A0%E6%83%B3%E8%A7%A3%E9%94%81%E4%BB%80%E4%B9%88%E6%96%B0%E7%8E%A9%E6%84%8F%EF%BC%9F;%E2%9A%A1+WordPress+%2F+PHP+%2F+Performance+%2F+SEO+%2F+Security" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=650&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I%27m+yxs2003;%E2%9D%93+%E4%BB%8A%E5%A4%A9%E4%BD%A0%E6%83%B3%E8%A7%A3%E9%94%81%E4%BB%80%E4%B9%88%E6%96%B0%E7%8E%A9%E6%84%8F%EF%BC%9F;%E2%9A%A1+WordPress+%2F+PHP+%2F+Performance+%2F+SEO+%2F+Security" />
   </a>
 </p>
 
@@ -21,35 +23,54 @@
   </a>
 </p>
 
+<!-- 访问统计（原来的） -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yxs2003&style=for-the-badge&label=VISITORS&color=brightgreen" />
   <img src="https://img.shields.io/github/followers/yxs2003?style=for-the-badge&label=FOLLOWERS&color=blue" />
   <img src="https://img.shields.io/github/stars/yxs2003?style=for-the-badge&label=STARS&color=yellow" />
 </p>
 
----
-
-## ❓About Me
-- 👤 00后，喜欢一切新奇的玩意儿，目前在全国各地奔波
-- 🧩 方向：WordPress 插件 / 网站性能优化 / SEO / 安全增强 / 站点体验
-- 🛠️ 偏爱：可配置、模块化、可维护、能“立刻见效”的工具
-- 🌐 Blog：**https://www.shiguang.ink/**
-- 📫 Email：**2977443056@qq.com**
+<!-- ✅ 举牌小人统计（你指定的） -->
+<p align="center">
+  <img src="https://count.i80k.com/api/counter?name=fuhua" alt="counter" />
+</p>
 
 ---
+
+## ❓About Me（小卡片）
+
+> ### 🌙 个人简介
+> **2025 大学本科毕业生｜逃离城市 ing**  
+>  
+> 我在寻找我想要的人生，也在寻找…她…  
+> 我不知道我的人生为什么变成了这个模样…  
+> 明明，我还有许许多多梦想…
+>
+> 🌐 Blog：**https://www.shiguang.ink/**  
+> 📫 Email：**2977443056@qq.com**
+
+---
+
+<!-- 两栏更像首页，但都用你现有能加载的组件（geps + shields） -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## ⚡今日状态
 > 其实今天刚起床~~。
+
 - 🧠 学习/输入进度：![](https://geps.dev/progress/72)
 - 🧱 代码搭建进度：![](https://geps.dev/progress/84)
 - 🐛 Bug 清零进度：![](https://geps.dev/progress/61)
 - ☕ 咖啡续命进度：![](https://geps.dev/progress/93)
 - 🎯 目标达成进度：![](https://geps.dev/progress/58)
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🧰 Skill Stack & 熟练度
 > 其实我只会修改代码里的中文部分，哪行报错删哪行~~。
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
@@ -66,15 +87,16 @@
 - 性能优化：![](https://geps.dev/progress/88)
 - SEO / 安全：![](https://geps.dev/progress/81)
 
----
+</td>
+</tr>
+</table>
 
+---
 
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yxs2003&hide_border=true&area=true&v=1" />
 </p>
-
----
 
 <!-- =========================
      END
