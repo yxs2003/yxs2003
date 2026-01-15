@@ -2,11 +2,6 @@
      yxs2003 / Profile README
      ========================= -->
 
-<!-- 进阶版头图（推荐）：启用 Actions 后会自动生成 assets/banner.gif -->
-<p align="center">
-  <img src="assets/banner.gif" alt="mystery banner" width="100%">
-</p>
-
 <!-- 基础版头图（零配置）：如果你不做 Actions，把上面那行改成下面这一行即可
 <p align="center">
   <img src="https://imgapi.cn/api.php?fl=dongman&gs=images" alt="anime banner" width="100%">
@@ -48,7 +43,7 @@
 ---
 
 ## ⚡炫酷进度条（今日状态）
-> 进度条只是为了“酷”，你可以随便改数字（0-100）。
+> 其实今天刚起床~~。
 
 - 🧠 学习/输入进度：![](https://geps.dev/progress/72)
 - 🧱 代码搭建进度：![](https://geps.dev/progress/84)
@@ -59,6 +54,7 @@
 ---
 
 ## 🧰 Skill Stack & 熟练度
+> 其实我只会修改代码里的中文部分！~。
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
